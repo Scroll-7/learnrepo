@@ -1,1 +1,1 @@
-exercice to check if i can create a file and post it on github 
+exercice to check if i can create a file and post it on github from linux cmd
